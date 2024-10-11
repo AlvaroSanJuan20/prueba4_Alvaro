@@ -23,5 +23,7 @@
 > Con el commit hecho y los archivos ya modificados hago un ** git branch ejer4 ** para trabajar en mi propia rama y no tener problemas, entro en la rama de ejer4 con **git checkout** y dentro hago **git push origin ejer4** que empujará los nuevos cambios y creará la request.
 
 ![Imagen](https://github.com/AlvaroSanJuan20/prueba4_Alvaro/blob/master/GitHubImages/4.png)
+
 ![Imagen](https://github.com/AlvaroSanJuan20/prueba4_Alvaro/blob/master/GitHubImages/5.png)
+
 ![Imagen](https://github.com/AlvaroSanJuan20/prueba4_Alvaro/blob/master/GitHubImages/6.png)
