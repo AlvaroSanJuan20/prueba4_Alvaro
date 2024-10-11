@@ -1,4 +1,7 @@
-# Pasos para completar el ejercicio 4
+# Ejercicio 4: Git. Colaborar en un proyecto de software libre. Pull Request (PR)
+`por Alvaro San Juan - ASIR2 (2024/2025)`
+
+En esta actividad aprenderemos a trabajar en repositorios de otras personas, modificarlos y luego subir las modificaciones para pedirles que lo añadan al repositorio original.
 
 ## Hacer el fork
 
