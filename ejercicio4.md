@@ -4,11 +4,11 @@
 
 > Para hacer el fork vamos a tener que ir al repositorio que queremos hacer el fork, al lado del boton *unwatch* tenemos el boton *Fork*, este boton nos llevara a la página para crearlo. Directamente le daremos en **Create fork**
 
-![Imagen]()
+![Imagen](https://github.com/AlvaroSanJuan20/prueba4_Alvaro/blob/master/GitHubImages/1.png)
 
 > Una vez creado tendremos esto en nuestros repositorios:
 
-![Imagen]()
+![Imagen](https://github.com/AlvaroSanJuan20/prueba4_Alvaro/blob/master/GitHubImages/3.png)
 
 ## Clonar la prueba IAW
 
@@ -16,12 +16,12 @@
 
 > Cuando todo eso está hecho hare un **git add .** y **git commit -m** para añadir los cambios y confirmarlos.
 
-![Imagen]()
+![Imagen](https://github.com/AlvaroSanJuan20/prueba4_Alvaro/blob/master/GitHubImages/2.png)
 
 ## Subir la prueba IAW y hacer el request
 
 > Con el commit hecho y los archivos ya modificados hago un ** git branch ejer4 ** para trabajar en mi propia rama y no tener problemas, entro en la rama de ejer4 con **git checkout** y dentro hago **git push origin ejer4** que empujará los nuevos cambios y creará la request.
 
-![Imagen]()
-![Imagen]()
-![Imagen]()
+![Imagen](https://github.com/AlvaroSanJuan20/prueba4_Alvaro/blob/master/GitHubImages/4.png)
+![Imagen](https://github.com/AlvaroSanJuan20/prueba4_Alvaro/blob/master/GitHubImages/5.png)
+![Imagen](https://github.com/AlvaroSanJuan20/prueba4_Alvaro/blob/master/GitHubImages/6.png)
