@@ -22,6 +22,7 @@ En esta actividad aprenderemos a trabajar en repositorios de otras personas, mod
 ![Imagen](https://github.com/AlvaroSanJuan20/prueba4_Alvaro/blob/master/GitHubImages/2.png)
 
 ## Subir la prueba IAW y hacer el request
+`Esta parte del ejercicio se hizo directamente y no se pudo tomar capturas del proceso, solo los comandos usados`
 
 > Con el commit hecho y los archivos ya modificados hago un ** git branch ejer4 ** para trabajar en mi propia rama y no tener problemas, entro en la rama de ejer4 con **git checkout** y dentro hago **git push origin ejer4** que empujará los nuevos cambios y creará la request.
 
